@@ -1,3 +1,8 @@
+**CMPSC 487W Project 2
+Frontend: React
+Backend & Database: JSON Server**
+
+-----------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
