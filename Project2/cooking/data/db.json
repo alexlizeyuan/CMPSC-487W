@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes",
+      "image": "https://feelgoodfoodie.net/wp-content/uploads/2022/12/Vegetable-Stew-10.jpg"
+    },
+    {
+      "title": " New York Steak",
+      "ingredients": [
+        "New York Steak",
+        "Salt and Pepper",
+        "Olive Oil",
+        "Butter"
+      ],
+      "method": "Prepare the Steak: Let the steaks rest for 30 minutes to come to room temperature. Salt and pepper to taste.\nSauté: In a medium sized skillet over medium high heat at the olive oil. Once it starts to smoke add the steaks to the skillet. Sear on all of the sides until they have a golden brown crust. Add the butter and let melt in the skillet. Add in the garlic and fresh sprigs.\nCook Until Done! Reduce the heat to medium and let them cook until they reach the desired internal temperature. Spoon the butter over the steaks while they are cooking.",
+      "cookingTime": "15 minutes",
+      "image": "https://therecipecritic.com/wp-content/uploads/2021/01/newyorkstripsteak3.jpg",
+      "id": "As_QGEj"
+    },
+    {
+      "title": "Rice Pilaf",
+      "ingredients": [
+        "Aromatics",
+        "Rice",
+        "Cooking Liquid"
+      ],
+      "method": "Add rice to a fine mesh strainer or colander and rinse really well, until the water runs clear. Set aside to drain.\nMelt the butter in a medium saucepan over medium heat. Add the rice and cook, stirring often, until lightly golden. Add onion, garlic, salt, and pepper and cook until onion has softened.\nAdd chicken broth and bring to a boil. Cover pot with a tight fitting lid and reduce heat to a simmer. (Do not ever remove the lid from the pot during cooking!) Cook for 15-18 minutes. Remove pot from heat and allow to rest, with the lid still on, for 10 minutes.,\nRemove lid and gently fluff the rice with a fork. Gently stir in chopped parsley.",
+      "cookingTime": "15 minutes",
+      "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2022/10/Rice-Pilaf-1-500x500.jpg",
+      "id": "3PfjReu"
+    },
+    {
+      "title": "Spaghetti and Meatballs",
+      "ingredients": [
+        "1 pound lean ground meat",
+        "2 tablespoons tomato paste",
+        "3 garlic cloves"
+      ],
+      "method": "Heat the oil in a large pot over medium-high heat (we use a Dutch oven). Add the meat and cook until browned, about 8 minutes. As the meat cooks, use a wooden spoon to break it up into smaller crumbles.\n\n2Add the onions and cook, stirring every once and a while, until softened, about 5 minutes.\n\n3Stir in the garlic, tomato paste, oregano, and red pepper flakes and cook, stirring continuously for about 1 minute.",
+      "cookingTime": "40 minutes",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/02/IMG_20457-cropped-less-722x1024.jpg",
+      "id": "J-ehtKj"
+    }
+  ]
+}
