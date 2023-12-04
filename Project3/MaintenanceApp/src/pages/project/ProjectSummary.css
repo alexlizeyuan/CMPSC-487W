@@ -1,0 +1,36 @@
+.extra-btn {
+    background: #fff;
+    padding: 4px 6px;
+    border-radius: 2px;
+    color: var(--primary-color);
+    cursor: pointer;
+    font-size: 1em;
+    border: 1px solid var(--primary-color);
+  }
+  .extra-btn:hover {
+    color: #fff;
+    background-color: var(--primary-color);
+  }
+
+  .extra-assigned{
+    display: flex;
+    align-items: center; /* This ensures vertical alignment */
+    gap: 20px;
+  }
+  .extra-assigned .select-field{
+    flex-grow: 1;
+  }
+
+  .worker-name{
+    font-size:0.7em;
+    align-items: center;
+  }
+
+ .project-summary .request-id{
+    font-size:1.0em
+  }
+
+  .project-summary .extra-title{
+    font-size:1.25em;
+    margin-bottom: 10px
+  }

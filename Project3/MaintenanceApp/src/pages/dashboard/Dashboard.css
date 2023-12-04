@@ -1,0 +1,83 @@
+.project-filter {
+    margin: 30px auto;
+  }
+  .project-filter nav {
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+  }
+  .project-filter p {
+    font-size: 0.9em;
+    margin-right: 10px;
+  }
+  .project-filter button {
+    background: transparent;
+    border: 0;
+    font-family: inherit;
+    font-weight: bold;
+    color: var(--text-color);
+    cursor: pointer;
+    border-right: 1px solid #e4e4e4;
+    font-size: 0.9em;
+  }
+  .project-filter button:last-child {
+    border: 0;
+  }
+  .project-filter button.active {
+    color: var(--primary-color);
+  } 
+
+  .project-search-filter nav {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+  }
+ 
+  .project-search-filter button {
+    background: transparent;
+    border: 0;
+    font-family: inherit;
+    font-weight: bold;
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 0.9em;
+  }
+
+  .project-search-filter .date-aptNum {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px; /* Adjust this for spacing between fields */
+}
+
+.project-search-filter span{
+    font-size: 0.9em;
+
+}
+
+.project-search-filter label, .project-search-filter .aptNum {
+
+    flex: 1; /* This makes each element take equal space */
+}
+
+.project-search-filter label input[type="date"], .project-search-filter .aptNum {
+  
+    width: 100%; /* Makes the input take the full width of its parent */
+    box-sizing: border-box; /* Ensures padding and borders are included in the width */
+}
+
+
+
+
+/* Additional styles for alignment and padding as per previous discussions */
+.project-search-filter .aptNum {
+    height: 37px;
+    align-self: flex-end;
+    margin-bottom: 24px;
+    
+    /* Padding adjustments here if needed */
+}
+
+
+
